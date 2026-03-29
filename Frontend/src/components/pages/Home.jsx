@@ -17,7 +17,7 @@ const METRICS = [
 ];
 
 const INIT_PREDICTIONS = [
-  { url: "google.com",          type: "legit",    conf: "98%" },
+  { url: "google.com",         type: "legit",    conf: "98%" },
   { url: "fake-login.xyz",     type: "phishing", conf: "91%" },
   { url: "secure-banking.com", type: "phishing", conf: "92%" },
   { url: "check-mail.info",    type: "legit",    conf: "91%" },
